@@ -6,7 +6,7 @@ A single message compose component with image upload support. Built with React +
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Sammie03/social_hub/blob/main/src/assets/social_hub.png)
 
 
 ## Running Tests
